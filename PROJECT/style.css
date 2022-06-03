@@ -93,24 +93,6 @@ button:hover {
     border-color: rgb(204, 202, 202);
 
 }
-.youtube{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    font-size: small;
-}
-.youtube h4{
-    margin-right: 2px;
-    margin-left: 3px;
-    font-weight: 200;
-}
-.youtube a{
-    text-decoration: none;
-}
-.youtube a:hover{
-    text-decoration: underline;
-}
 #language{
     display: flex;
     flex-direction: row;
